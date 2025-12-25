@@ -23,7 +23,7 @@ ImprovedBank.AccountWide = 1
 #                     1 - Enabled - will also be able to deposit directly from bank
 #
 
-ImprovedBank.Deposit.SearchBank = 0
+ImprovedBank.Deposit.SearchBank = 1
 
 #
 #    ImprovedBank.Deposit.AllReagents
